@@ -1,6 +1,10 @@
 # titleBar
-自己封装的title bar
-使用说明：
+自己封装的title bar</br>
+使用说明：</br>
+ implementation 'com.github.xiayu98020214:titleBar:1.0.1'
+
+
+```
    <com.xiayu.lib.CustomTitleBar
        android:id="@+id/titleBar"
        android:layout_width="match_parent"
@@ -10,3 +14,6 @@
        app:title_text_color="@color/black"
        app:title_text_style="bold"
        app:right_button_visible="false"/>
+
+
+```
